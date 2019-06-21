@@ -2,6 +2,7 @@
   "name": "Shrek-Memory-Game",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ashleyfeijoo.github.io/Shrek_memory_game/",
   "dependencies": {
     "@date-io/date-fns": "^1.3.7",
     "@material-ui/pickers": "^3.1.1",
@@ -20,7 +21,8 @@
     "shufflejs": "^5.2.2"
   },
   "scripts": {
-
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
