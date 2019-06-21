@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Shrek_memory_game/precache-manifest.87140f420def785e7d29ef16dbde76ec.js"
+  "/Shrek_memory_game/precache-manifest.faafcd1cc7a76454520548ddb9818fc1.js"
 );
 
 self.addEventListener('message', (event) => {
