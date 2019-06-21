@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0756407b2658afc955745238e65eb8c4",
+    "revision": "fa59ea94e5176bb71bb7fbce95e5a575",
     "url": "/Shrek_memory_game/index.html"
   },
   {
-    "revision": "56b80ae2ebf7be476502",
+    "revision": "74ff472505b49084589f",
     "url": "/Shrek_memory_game/static/css/main.9a5ee086.chunk.css"
   },
   {
-    "revision": "5830529018b74329100b",
-    "url": "/Shrek_memory_game/static/js/2.ba97f197.chunk.js"
+    "revision": "d28dfd963dd42b4eba15",
+    "url": "/Shrek_memory_game/static/js/2.e3e2a547.chunk.js"
   },
   {
-    "revision": "56b80ae2ebf7be476502",
-    "url": "/Shrek_memory_game/static/js/main.cde18028.chunk.js"
+    "revision": "74ff472505b49084589f",
+    "url": "/Shrek_memory_game/static/js/main.597d66ca.chunk.js"
   },
   {
     "revision": "514acc08e389d1f080b3",
