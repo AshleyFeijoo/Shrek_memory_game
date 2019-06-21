@@ -1,4 +1,4 @@
-//imports dependencies and files
+//imports dependencies
 import React, { Component } from "react";
 import $ from 'jquery';
 import Navbar from "./components/Navbar";
@@ -7,7 +7,6 @@ import CharacterCard from "./components/CharacterCard";
 import characters from "./characters.json";
 import bootstrap from "bootstrap"
 
-// import (jquery)
 
 
 import "./App.css";
