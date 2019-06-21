@@ -5,7 +5,10 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import CharacterCard from "./components/CharacterCard";
 import characters from "./characters.json";
+import bootstrap from "bootstrap"
+
 // import (jquery)
+
 
 import "./App.css";
 window.jQuery = $;
