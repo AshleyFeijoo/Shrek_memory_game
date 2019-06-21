@@ -11,8 +11,6 @@ import "./App.css";
 window.jQuery = $;
 window.$ = $;
 global.jQuery = $;
-const bootstrap = require('bootstrap');
-console.log(bootstrap)
 
 
 class App extends Component {
