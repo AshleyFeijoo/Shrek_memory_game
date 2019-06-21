@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Shrek_memory_game/static/css/main.9a5ee086.chunk.css",
+    "main.js": "/Shrek_memory_game/static/js/main.597d66ca.chunk.js",
+    "main.js.map": "/Shrek_memory_game/static/js/main.597d66ca.chunk.js.map",
+    "runtime~main.js": "/Shrek_memory_game/static/js/runtime~main.dd50b52c.js",
+    "runtime~main.js.map": "/Shrek_memory_game/static/js/runtime~main.dd50b52c.js.map",
+    "static/js/2.e3e2a547.chunk.js": "/Shrek_memory_game/static/js/2.e3e2a547.chunk.js",
+    "static/js/2.e3e2a547.chunk.js.map": "/Shrek_memory_game/static/js/2.e3e2a547.chunk.js.map",
+    "index.html": "/Shrek_memory_game/index.html",
+    "precache-manifest.bcd58bef03deaaeaac9a11f035db21ff.js": "/Shrek_memory_game/precache-manifest.bcd58bef03deaaeaac9a11f035db21ff.js",
+    "service-worker.js": "/Shrek_memory_game/service-worker.js",
+    "static/css/main.9a5ee086.chunk.css.map": "/Shrek_memory_game/static/css/main.9a5ee086.chunk.css.map",
+    "static/media/App.css": "/Shrek_memory_game/static/media/Shrek.2179845e.ttf",
+    "static/media/Fergus.jpeg": "/Shrek_memory_game/static/media/Fergus.8ce4c3fa.jpeg",
+    "static/media/Fiona.jpeg": "/Shrek_memory_game/static/media/Fiona.0088e1a8.jpeg",
+    "static/media/LordFarquad.jpeg": "/Shrek_memory_game/static/media/LordFarquad.9c6b8291.jpeg",
+    "static/media/Pinnochio.png": "/Shrek_memory_game/static/media/Pinnochio.64f8ddd9.png",
+    "static/media/PrinceCharming.jpeg": "/Shrek_memory_game/static/media/PrinceCharming.d5ad5f8c.jpeg",
+    "static/media/PussInBoots.jpeg": "/Shrek_memory_game/static/media/PussInBoots.1a50c396.jpeg",
+    "static/media/Shrek.jpeg": "/Shrek_memory_game/static/media/Shrek.b0896ef3.jpeg",
+    "static/media/ShrekMemory.png": "/Shrek_memory_game/static/media/ShrekMemory.602f2f9a.png",
+    "static/media/desc.png": "/Shrek_memory_game/static/media/desc.a7c19054.png",
+    "static/media/donkey.jpeg": "/Shrek_memory_game/static/media/donkey.e3c29f19.jpeg",
+    "static/media/humanShrek.jpg": "/Shrek_memory_game/static/media/humanShrek.66401176.jpg",
+    "static/media/shrekHeader.png": "/Shrek_memory_game/static/media/shrekHeader.8d5ee2f7.png"
+  }
+}
